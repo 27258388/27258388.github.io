@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.MS{
+	width: 100%;
+	height: auto;
+	overflow: auto;
+	object-fit: contain;
+}
